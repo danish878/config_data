@@ -7,9 +7,9 @@ eureka:
 
 ---
 spring:
-  profiles: subject123
+  profiles: subject
 #words: I,You,He,She,It
-words: subject
+words: subject123
 
 ---
 spring:
