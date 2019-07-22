@@ -14,23 +14,23 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-#words: ran,knew,had,saw,bought
-words: verb
+words: ran,knew,had,saw,bought
+#words: verb
 
 ---
 spring:
   profiles: article
-#words: a,the
-words: article
+words: a,the
+#words: article
 
 ---
 spring:
   profiles: adjective
-#words: reasonable,leaky,suspicious,ordinary,unlikely
-words: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
+#words: adjective
 
 ---
 spring:
   profiles: noun
-#words: boat,book,vote,seat,backpack,partition,groundhog
-words: noun
+words: boat,book,vote,seat,backpack,partition,groundhog
+#words: noun
